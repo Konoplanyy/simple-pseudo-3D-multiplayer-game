@@ -1,0 +1,14 @@
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\bin\Debug\net8.0-windows\Try1 None library.exe
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\bin\Debug\net8.0-windows\Try1 None library.deps.json
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\bin\Debug\net8.0-windows\Try1 None library.runtimeconfig.json
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\bin\Debug\net8.0-windows\Try1 None library.dll
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\bin\Debug\net8.0-windows\Try1 None library.pdb
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.AssemblyInfo.cs
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.dll
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\refint\Try1 None library.dll
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.pdb
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\Try1 None library.genruntimeconfig.cache
+C:\Users\dimar\source\repos\DirectXTest\Try1 None library\obj\Debug\net8.0-windows\ref\Try1 None library.dll

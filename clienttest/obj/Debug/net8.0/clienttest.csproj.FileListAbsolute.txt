@@ -1,0 +1,14 @@
+C:\Users\dimar\source\repos\DirectXTest\clienttest\bin\Debug\net8.0\clienttest.exe
+C:\Users\dimar\source\repos\DirectXTest\clienttest\bin\Debug\net8.0\clienttest.deps.json
+C:\Users\dimar\source\repos\DirectXTest\clienttest\bin\Debug\net8.0\clienttest.runtimeconfig.json
+C:\Users\dimar\source\repos\DirectXTest\clienttest\bin\Debug\net8.0\clienttest.dll
+C:\Users\dimar\source\repos\DirectXTest\clienttest\bin\Debug\net8.0\clienttest.pdb
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.AssemblyInfo.cs
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.dll
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\refint\clienttest.dll
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.pdb
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\clienttest.genruntimeconfig.cache
+C:\Users\dimar\source\repos\DirectXTest\clienttest\obj\Debug\net8.0\ref\clienttest.dll
